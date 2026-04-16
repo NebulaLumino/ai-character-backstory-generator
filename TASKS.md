@@ -1713,3 +1713,43 @@
 | 4028 | AI Agents in Regulatory Compliance | docs/task-4028-ai-agents-regulatory-compliance-finance.md | ✅ |
 | 4029 | AI Agents in Smart Contract Auditing | docs/task-4029-ai-agents-smart-contract-auditing.md | ✅ |
 | 4030 | AI Agents in Real Estate Investment | docs/task-4030-ai-agents-real-estate-investment.md | ✅ |
+| 4031 | Course Outline Generator | tasks/task-4031-ai-course-outline-generator.md | ✅ |
+| 4032 | Flashcard Generator | tasks/task-4032-ai-flashcard-generator.md | ✅ |
+| 4033 | Study Schedule Optimizer | tasks/task-4033-ai-study-schedule-optimizer.md | ✅ |
+| 4034 | Quiz Generator | tasks/task-4034-ai-quiz-generator.md | ✅ |
+| 4035 | Socratic Tutor | tasks/task-4035-ai-socratic-tutor.md | ✅ |
+| 4036 | Academic Writing Assistant | tasks/task-4036-ai-academic-writing-assistant.md | ✅ |
+| 4037 | Research Paper Outline | tasks/task-4037-ai-research-paper-outline.md | ✅ |
+| 4038 | Language Vocabulary Builder | tasks/task-4038-ai-language-vocabulary-builder.md | ✅ |
+| 4039 | Lecture Notes Summarizer | tasks/task-4039-ai-lecture-notes-summarizer.md | ✅ |
+| 4040 | Bibliography Generator | tasks/task-4040-ai-bibliography-generator.md | ✅ |
+| 4041 | Academic Integrity Checker | tasks/task-4041-ai-academic-integrity-checker.md | ✅ |
+| 4042 | Abstract Generator | tasks/task-4042-ai-abstract-generator.md | ✅ |
+| 4043 | Learning Gap Diagnoser | tasks/task-4043-ai-learning-gap-diagnoser.md | ✅ |
+| 4044 | Grading Rubric Builder | tasks/task-4044-ai-grading-rubric-builder.md | ✅ |
+| 4045 | Syllabus Builder | tasks/task-4045-ai-syllabus-builder.md | ✅ |
+| 4046 | Peer Review Feedback | tasks/task-4046-ai-peer-review-feedback.md | ✅ |
+| 4047 | Essay Thesis Refiner | tasks/task-4047-ai-essay-thesis-refiner.md | ✅ |
+| 4048 | Study Group Matchmaker | tasks/task-4048-ai-study-group-matchmaker.md | ✅ |
+| 4049 | Concept Explanation Viz | tasks/task-4049-ai-concept-explanation-viz.md | ✅ |
+| 4050 | Exam Countdown Planner | tasks/task-4050-ai-exam-countdown-planner.md | ✅ |
+| 4051 | Textbook Chapter Selector | tasks/task-4051-ai-textbook-chapter-selector.md | ✅ |
+| 4052 | Academic Presentation Builder | tasks/task-4052-ai-academic-presentation-builder.md | ✅ |
+| 4053 | Thesis Methodology Suggester | tasks/task-4053-ai-thesis-methodology-suggester.md | ✅ |
+| 4054 | Study Resource Recommender | tasks/task-4054-ai-study-resource-recommender.md | ✅ |
+| 4055 | Knowledge Retention Tracker | tasks/task-4055-ai-knowledge-retention-tracker.md | ✅ |
+| 4056 | Learning Style Diagnoser | tasks/task-4056-ai-learning-style-diagnoser.md | ✅ |
+| 4057 | Group Project Role Assigner | tasks/task-4057-ai-group-project-role-assigner.md | ✅ |
+| 4058 | Academic Presentation Rehearser | tasks/task-4058-ai-academic-presentation-rehearser.md | ✅ |
+| 4059 | Course Equivalency Checker | tasks/task-4059-ai-course-equivalency-checker.md | ✅ |
+| 4060 | Learning Challenge Generator | tasks/task-4060-ai-learning-challenge-generator.md | ✅ |
+| 4061 | AI Agents in Personalized Learning | docs/task-4061-ai-agents-personalized-learning.md | ✅ |
+| 4062 | AI Agents in Intelligent Tutoring | docs/task-4062-ai-agents-intelligent-tutoring.md | ✅ |
+| 4063 | AI Agents in Language Learning | docs/task-4063-ai-agents-language-learning.md | ✅ |
+| 4064 | AI Agents in Educational Assessment | docs/task-4064-ai-agents-assessment-grading.md | ✅ |
+| 4065 | AI Agents in Research Automation | docs/task-4065-ai-agents-research-automation.md | ✅ |
+| 4066 | AI Agents in Classroom Management | docs/task-4066-ai-agents-classroom-management.md | ✅ |
+| 4067 | AI Agents in Scientific Writing | docs/task-4067-ai-agents-scientific-writing.md | ✅ |
+| 4068 | AI Agents in Academic Publishing | docs/task-4068-ai-agents-academic-publishing.md | ✅ |
+| 4069 | AI Agents in Spaced Repetition | docs/task-4069-ai-agents-study-spaced-repetition.md | ✅ |
+| 4070 | AI Agents in STEM Education | docs/task-4070-ai-agents-stem-education.md | ✅ |
